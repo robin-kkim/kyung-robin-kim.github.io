@@ -8,7 +8,7 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: Kyungyoon "Robin" Kim
   avatar: bio-photo.jpg
-  bio: "Hydrological Remote Sensing </br > Capacity Building"
+  bio: "Global Hydrology </br > Remote Sensing </br > Cryosphere </br > Capacity Building"
   email: kk7xv@virginia.edu
   # Do not include the @ symbol in your Twitter username
   twitter: #username
@@ -39,7 +39,6 @@ owner:
   flickr: #username
   codepen: #username
   disqus-shortname:
-  tinyletter: robinkim
 
 # The following adjust the accents for your site. If you would like to further edit colors, fonts, font sizes, etc.
 # you may do so in _sass/variables.scss
