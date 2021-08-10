@@ -6,6 +6,8 @@ excerpt: "CV"
 ---
 
 
+## Education
+
 `2020 - present`
 __University of Virginia, SEAS__; Charlottesville, VA			           		           
 Ph.D. Student in Civil Engineering
@@ -41,7 +43,8 @@ Honorable Mention for "Passion for Protecting our Planet" - Langley Research Cen
 
 `June 2021 - present`
 __Member__, NRT Professional Development Planning Committee			           		           
-•	Generate ideas for cohort sessions (e.g. applying improv skills to research/presentations; teamwork cohesion and conflict resolution); assist with correspondence and scheduling
+•	Generate ideas for cohort sessions (e.g. applying improv skills to research/presentations; teamwork cohesion and conflict resolution)
+• Assist with correspondence and scheduling
 
 `May 2021 – present`
 __Mentor__, Graduate School Mentor Program							          
