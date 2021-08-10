@@ -5,9 +5,6 @@ menuorder: 3
 excerpt: "CV"
 ---
 
-
-## Education
-
 `2020 - present`
 __University of Virginia, SEAS__; Charlottesville, VA			           		           
 Ph.D. Student in Civil Engineering
