@@ -8,7 +8,7 @@ excerpt: "Presentations"
 
 __Kim, K.__, Kansara, P., Haagenson, R., Lakshmi, V., & Rajaram, H. (2020). Mapping Alpine Permafrost in High Mountain Asia Using Remotely Sensed Data. AGU, San Francisco, CA. [Virtual eLightning Session]
 
-__Kim, K.__ & DEVELOP National Program Office. (2020). Using NASA EO for Monitoring Health & Air Quality. One Health Conference, Fairbanks, AK. [Poster Session]* canceled due to COVID-19
+__Kim, K.__ & DEVELOP National Program Office. (2020). Using NASA EO to Monitor Health & Air Quality. One Health Conference, Fairbanks, AK. [Poster Session]* canceled due to COVID-19
 
 Aldama, S., Dandridge, C., __Kim, K.__, & Pavur, G. (2019). Mapping landslide susceptibility and exposure in the Dominican Republic Using NASA Earth observation. Annual Earth Science Application Showcase, NASA HQ, Washington, D.C. [Poster Session]
 
