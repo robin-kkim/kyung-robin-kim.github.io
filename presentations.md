@@ -1,5 +1,5 @@
 ---
-layout: presentation-post-index
+layout: page
 menutitle: Presentations
 menuorder: 2
 excerpt: "Presentations"
