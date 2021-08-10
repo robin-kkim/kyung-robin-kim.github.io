@@ -1,8 +1,7 @@
 ---
 layout: resume
-menuorder: 3
-menutitle: CV
 ---
+
 ## Education
 
 `2020 - present`
