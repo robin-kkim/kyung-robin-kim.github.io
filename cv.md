@@ -1,5 +1,8 @@
 ---
 layout: resume
+menutitle: CV
+menuorder: 3
+excerpt: "CV"
 ---
 
 ## Education
