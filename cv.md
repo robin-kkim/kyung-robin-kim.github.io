@@ -33,7 +33,7 @@ Bicentennial Fellowship, University of Virginia
 Segal AmeriCorps Education Award
 
 `2019`
-Honorable Mention for "Passion for Protecting our Planet" - Langley's Science Directorate Apollo 50th Anniversary Song Contest
+Honorable Mention for "Passion for Protecting our Planet" - Langley Research Center's Science Directorate Apollo 50th Anniversary Song Contest
 
 
 ## Presentations
