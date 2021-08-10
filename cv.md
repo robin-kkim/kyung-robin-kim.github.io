@@ -20,19 +20,19 @@ Semester Abroad on the Atlantic Ocean
 
 ## Awards
 
-'2020 - present'
+`2020 - present`
 National Science Foundation Research Traineeship (Cyber-Physical Systems) Fellowship, University of Virginia
 
-'2020 - present'
+`2020 - present`
 Dean's Scholar Fellowship, University of Virginia
 
-'2020 - present'
+`2020 - present`
 Bicentennial Fellowship, University of Virginia
 
-'2020'
+`2020`
 Segal AmeriCorps Education Award
 
-'2019'
+`2019`
 Honorable Mention for "Passion for Protecting our Planet" - Langley's Science Directorate Apollo 50th Anniversary Song Contest
 
 
