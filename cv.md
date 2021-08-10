@@ -8,15 +8,15 @@ excerpt: "CV"
 ## Education
 
 `2020 - present`
-__University of Virginia, SEAS; Charlottesville, VA__
+__University of Virginia, SEAS__; Charlottesville, VA			           		           
 Ph.D. Student in Civil Engineering
 
 `2012 - 2018`
-__Boston College, MCAS; Chestnut Hill, MA__
+__Boston College, MCAS__; Chestnut Hill, MA			           		           
 B.S. in Geological Sciences
 
-`2016`
-__SEA Semester, Oceans & Climate; Woods Hole, MA__
+`Fall 2016`
+__SEA Semester, Oceans & Climate__; Woods Hole, MA			           		           
 Semester Abroad on the Atlantic Ocean
 
 
