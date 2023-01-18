@@ -20,8 +20,11 @@ Semester Abroad on the Atlantic Ocean
 
 ## Awards
 
+`2022 - present`
+NSF Graduate Research Fellowship
+
 `2020 - present`
-National Science Foundation Research Traineeship (Cyber-Physical Systems) Fellowship - University of Virginia
+NSF Research Traineeship (Cyber-Physical Systems) Fellowship - University of Virginia
 
 `2020 - present`
 Dean's Scholar Fellowship - University of Virginia
@@ -37,26 +40,25 @@ Honorable Mention for "Passion for Protecting our Planet" - Langley Research Cen
 
 
 ## Community Outreach & Volunteering
-
-`June 2021 - present`
-__Member__, NRT Professional Development Planning Committee			           		           
-•	Generate ideas for cohort sessions (e.g. applying improv skills to research/presentations; teamwork cohesion and conflict resolution)
-• Assist with correspondence and scheduling
-
-`May 2021 – present`
-__Mentor__, Graduate School Mentor Program							          
-•	Offer guidance and advice from discerning graduate programs to following through with applications to one senior undergraduate
-
-`February 2021 – present`
+`February 2021 – present [on pause]`
 __Volunteer Consultant__, Virginia - Scientist Community Interface			           		           
 •	Gathered literature on culverts and fish passages to help inform partner organizations
 •	Identified available data sources for implementing a prioritization tool for assessing culvert removals in Virginia
 
-`August 2019 – present`
+`August 2019 – present [on pause]`
 __DEVELOP Ambassador__, NASA DEVELOP National Program			           		           
 •	Formed two potential partnerships between federal entities in Sitka, AK and the National Program Office in Hampton, VA to generate future project ideas 
 •	Presented to two groups of undergraduate students and faculty members visiting the Sitka Sound Science Center about DEVELOP to increase interest in remote sensing applications and careers
 •	Continued assistance related to past projects, and offered resources and advice to prospective and current participants
+
+`May 2021 – January 2022`
+__Mentor__, Graduate School Mentor Program							          
+•	Offer guidance and advice from discerning graduate programs to following through with applications to one senior undergraduate
+
+`June 2021 - September 2021`
+__Member__, NRT Professional Development Planning Committee			           		           
+•	Generate ideas for cohort sessions (e.g. applying improv skills to research/presentations; teamwork cohesion and conflict resolution)
+• Assist with correspondence and scheduling
 
 `August 2019 – August 2020`
 __Informal Science Educator__, Sitka Sound Science Center; Jesuit Volunteer Corps NW-AmeriCorps			           		           
