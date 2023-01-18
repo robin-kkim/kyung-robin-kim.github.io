@@ -4,7 +4,18 @@ menutitle: Presentations
 menuorder: 2
 excerpt: "Presentations"
 ---
+__Kim, K.__, Zhang, R., Fang, B., Elston, J., Russ, A., Cosh, M., & Lakshmi, V. (2022). High Spatial Resolution Soil Moisture Mapping using L-band UAV Sensor. AGU, Chicago, IL. [Poster Session]
 
+__Kim, K.__, Haagenson, R., Rajaram, H., & Lakshmi, V. (2022). Modeling Ground Temperature with Thermal Conductivities based on 
+Soil Classification and Moisture in High Mountain Asia. AGU, Chicago, IL. [Poster Session]
+
+Aryal, A., __Kim, K.__, Tran, D., Rajaram, H., & Lakshmi, V. (2022). Modeling Himalayan Catchments. AGU, Chicago, IL. [Poster Session]
+
+__Kim, K.__ & Lakshmi, V. (2021). Modeling and Assessing Water Storage Changes in the Limpopo River Basin in a Warming Climate. AGU, New Orleans, LA. [Poster Session]
+
+__Kim, K.__, Kansara, P., Haagenson, R., Rajaram, H., & Lakshmi, V. (2021). A Comparison of First-Order Permafrost Estimates in High Mountain Asia Using Remotely Sensed Land Surface Temperature, Air Temperature, and Snow Reanalysis Products. AGU, New Orleans, LA. [Poster Session]
+
+__Kim, K.__, Kansara, P., Rajaram, H., & Lakshmi, V. (2021). A First Order Estimate of Permafrost Extent in High Mountain Asia Using Snow Depth Corrected Terra & Aqua MODIS Land Surface Temperature Products. ICIMOD Cryosphere Forum, Kathmandu, Nepal. [Online Presentation]
 
 __Kim, K.__, Kansara, P., Haagenson, R., Lakshmi, V., & Rajaram, H. (2020). Mapping Alpine Permafrost in High Mountain Asia Using Remotely Sensed Data. AGU, San Francisco, CA. [Virtual eLightning Session]
 
