@@ -9,7 +9,7 @@ Hello! I'm a 3rd-year Civil Engineering PhD student (candidate since 12/22!) at 
 
 ## Current Interests and Projects:
 
-- Mapping Permafrost Extent in High Mountain Asia using Remotely Sensing Data Products
+- Mapping Permafrost Extent in High Mountain Asia using Remote Sensing Data Products
 - Modeling Ground Temperature Profiles in the Himalayas/HMA
 - Modeling Discharge in a Himalayan Catchment
 - HiRes Soil Moisture Estimates using L-band Radiometer on board UAV
