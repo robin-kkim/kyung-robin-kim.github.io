@@ -9,7 +9,7 @@ __Kim, K.__, Zhang, R., Fang, B., Elston, J., Russ, A., Cosh, M., & Lakshmi, V. 
 __Kim, K.__, Haagenson, R., Rajaram, H., & Lakshmi, V. (2022). Modeling Ground Temperature with Thermal Conductivities based on 
 Soil Classification and Moisture in High Mountain Asia. AGU, Chicago, IL. [Poster Session]
 
-Aryal, A., __Kim, K.__, Tran, D., Rajaram, H., & Lakshmi, V. (2022). Hydrological Modeling of Himalayan Watershed in Nepal. AGU, Chicago, IL. [Poster Session]
+Aryal, A., __Kim, K.__, Tran, D., Rajaram, H., & Lakshmi, V. (2022). Climate and Land Use/Land Cover Change Impacts on Hydrological Processes in the Mountain Watershed of Gandaki River Basin, Nepal. AGU, Chicago, IL. [Poster Session]
 
 __Kim, K.__ & Lakshmi, V. (2021). Modeling and Assessing Water Storage Changes in the Limpopo River Basin in a Warming Climate. AGU, New Orleans, LA. [Poster Session]
 
