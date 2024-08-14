@@ -4,6 +4,27 @@ menutitle: Presentations
 menuorder: 2
 excerpt: "Presentations"
 ---
+Elliot C., __Kim, K.__, Le, H., Bolten, J., & Cosh, M. 2024. Time Stability of SMAP Soil Moisture in the Upper Missouri River Basin. Lab
+617 Meeting, Goddard Space Flight Center, Greenbelt, MD. [Presentation]
+
+__Kim, K.__, Rajaram, H., & Lakshmi, V. 2023. Estimating Permafrost Extent in the Andes using Gap-Filled Remotely Sensed Land
+Surface Temperature Retrievals. AGU Fall Meeting, San Francisco, CA. [Poster Session]
+
+__Kim, K.__, Zhu Z., Zhang, R., Fang, B., Cosh, M., Russ, A., Dai, E., Elston, J., Stachura, M., Gasiewski, A., & Lakshmi, V. 2023.
+Validation of a Dry-Drown Event using UAS-based Passive L-Band Microwave Radiometer. AGU Fall Meeting, San Francisco, CA.
+[Presentation]
+
+__Kim, K.__, Rajaram, H., & Lakshmi, V. 2023. Estimating Ground Temperature and Permafrost Extent in High Mountain Asia with
+AIRS Surface Temperature &amp; MODIS LST. International Conference on Mountain Hydrology and Cryosphere. Kathmandu, Nepal.
+[Presentation]
+
+__Kim, K.__, Zhu, Z., Zhang, R., Fang, B., Cosh, M., Russ, A., Dai, E., Elston, J., Stachura, M., Gasiewski, A., & Lakshmi, V. 2023.
+Precision Soil Moisture Monitoring with Passive Microwave L-band Drone Mapping. National Soil Moisture Workshop, Beltsville,
+MD. [<span style="color: blue">[Presentation]</span>](https://www.youtube.com/watch?v=WGhW1FPIbko&list=PLmhxKH4OH8KIgq2EPWK3ewuf6nfGnMWJg&index=19)
+
+__Kim, K.__, Haagenson, R., Rajaram, H., & Lakshmi, V. 2023. Modeling Permafrost in High Mountain Asia: Current Maps & Future
+Steps. HiMAT Workshop, Hotel Himalaya, Kathmandu, Nepal. [Presentation]
+
 __Kim, K.__, Zhang, R., Fang, B., Elston, J., Russ, A., Cosh, M., & Lakshmi, V. (2022). High Spatial Resolution Soil Moisture Mapping using L-band UAV Sensor. AGU, Chicago, IL. [Poster Session]
 
 __Kim, K.__, Haagenson, R., Rajaram, H., & Lakshmi, V. (2022). Modeling Ground Temperature with Thermal Conductivities based on 
